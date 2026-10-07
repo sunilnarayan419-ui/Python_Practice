@@ -99,3 +99,19 @@ https://sunil-narayan.netlify.app/
 ---
 
 ⭐ This repository is a record of my Python learning journey.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sunilnarayan419-ui/python_practice/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sunilnarayan419-ui/python_practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sunilnarayan419-ui/python_practice/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
